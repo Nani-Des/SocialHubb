@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465914554042",
+    "project_id": "virtual-council",
+    "storage_bucket": "virtual-council.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465914554042:android:ec4fb130ba15ea62a00483",
+        "android_client_info": {
+          "package_name": "com.example.virtual_council"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465914554042-sf5mrri00m367ut070cf8ua301ddotr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhnit_cJo-QDLDQtNjjUTstHeJAw-kHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465914554042-sf5mrri00m367ut070cf8ua301ddotr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
