@@ -1,4 +1,4 @@
-# virtual_council
+# SocialHubb
 
 Lawyers meet clients
 
